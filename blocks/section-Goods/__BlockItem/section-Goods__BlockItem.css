@@ -1,0 +1,9 @@
+.section-Goods__BlockItem {
+  list-style-type: none;
+  padding-top: calc(var(--index) * .6 / var(--divider));
+  padding-bottom: calc(var(--index) * .6 / var(--divider));
+}
+
+.section-Goods__item-BlockImg:hover .section-Goods__item-img {
+  transform: scale(1.2);
+}

@@ -1,0 +1,5 @@
+.section-Goods {
+  padding-bottom: calc(var(--index) * 4 / var(--divider));
+  background-color: #f0f0f0;
+  font-family: 'Ubuntu', Georgia, 'Times New Roman', Times, serif;
+}

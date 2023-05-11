@@ -1,0 +1,7 @@
+.TwoColumn__Characteristics-img {
+  width: 100%;
+  height: 50%;
+  object-fit: contain;
+  object-position: center center;
+  margin-bottom: calc(var(--index) * .75 / var(--divider));
+}
